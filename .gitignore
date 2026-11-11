@@ -1,0 +1,24 @@
+# 使用者自己的設定、日誌、截圖（每個人不一樣，不上傳）
+config.json
+config.json.bad
+logs/
+截圖/
+
+# 開發用、不屬於專案（各對話的交接文件只放在本機）
+0*_*.md
+測試/
+其他/
+_tmp_check/
+/py
+/自動
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 打包產物
+build/
+dist/
+*.spec

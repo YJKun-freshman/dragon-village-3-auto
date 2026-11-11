@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Windows 批次檔一定要 CRLF，不然雙擊只會出現黑色視窗
+*.bat text eol=crlf

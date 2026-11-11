@@ -1,0 +1,4 @@
+# Third-party packages (managed by main/integration)
+numpy>=1.24
+opencv-python>=4.8
+customtkinter>=5.2
